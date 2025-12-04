@@ -1,4 +1,4 @@
-package com.example.linkis
+package com.linkis.app
 
 import io.flutter.embedding.android.FlutterActivity
 
