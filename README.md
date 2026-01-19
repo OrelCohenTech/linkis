@@ -1,5 +1,3 @@
-Certainly! Here is a professional, clean, and engaging README.md in English, tailored for your app Linkies.
-
 🔗 Linkies – Find Your Tribe
 Linkies is a community-driven platform designed to bridge the gap between people and the digital groups they belong in. Whether it's WhatsApp, Telegram, or other social platforms, Linkies provides a centralized, searchable hub for finding the exact community you're looking for.
 
